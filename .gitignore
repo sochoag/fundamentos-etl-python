@@ -1,0 +1,3 @@
+target/*
+postgres_public_trades.sql
+env/*
